@@ -45,11 +45,11 @@ This video shows the 2D keypoints of running Mediapipe and the 3D plots of each 
 
 ## Results
 
-**Distortion modeling improves 3D accuracy
+** Distortion modeling improves 3D accuracy
 
-**Lower MPJPE when fisheye distortion is modeled
+** Lower MPJPE when fisheye distortion is modeled
 
-**Filtering reduces noise in reconstructed 3D trajectories
+** Filtering reduces noise in reconstructed 3D trajectories
 ## Authors
  - Tala Khaddour
  - Alaa Hassoun
